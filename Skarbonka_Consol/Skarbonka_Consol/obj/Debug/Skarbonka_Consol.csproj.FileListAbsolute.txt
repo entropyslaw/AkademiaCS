@@ -1,0 +1,6 @@
+c:\users\patryk\documents\visual studio 2015\Projects\Skarbonka_Consol\Skarbonka_Consol\bin\Debug\Skarbonka_Consol.exe.config
+c:\users\patryk\documents\visual studio 2015\Projects\Skarbonka_Consol\Skarbonka_Consol\bin\Debug\Skarbonka_Consol.exe
+c:\users\patryk\documents\visual studio 2015\Projects\Skarbonka_Consol\Skarbonka_Consol\bin\Debug\Skarbonka_Consol.pdb
+c:\users\patryk\documents\visual studio 2015\Projects\Skarbonka_Consol\Skarbonka_Consol\obj\Debug\Skarbonka_Consol.exe
+c:\users\patryk\documents\visual studio 2015\Projects\Skarbonka_Consol\Skarbonka_Consol\obj\Debug\Skarbonka_Consol.pdb
+c:\users\patryk\documents\visual studio 2015\Projects\Skarbonka_Consol\Skarbonka_Consol\obj\Debug\Skarbonka_Consol.csprojResolveAssemblyReference.cache
